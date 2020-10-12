@@ -3,3 +3,5 @@ Medi-Self is an App that can alert people with heart disease to take medication 
 
 <img src="./Mockup.hyperesources/home2.jpg" width="30%">  <img src="./Mockup.hyperesources/list_bokey.jpg" width="30%">  <img src="./Mockup.hyperesources/side_effect_stomachache.jpg" width="30%">
 
+The Clip device model
+<img src="002jpg" width="30%">
